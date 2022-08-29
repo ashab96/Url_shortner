@@ -1,6 +1,4 @@
 # Follow these steps to run this application locally.
-## NOTE: the "shorten" folder is a child git repo inside "Week-10" folder.
-## NOTE: The "Week-10" Folder is part of the Parent repo.
 Live Demo Link of this App : [URL_Shortner](https://csb-0wg8gk.netlify.app/)
 ### Step 1 :
 Clone the project
